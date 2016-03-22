@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrapsMachineLearning", "CrapsMachineLearning\CrapsMachineLearning.csproj", "{F884B20C-6D06-4768-8F1C-C3D663A470D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrapsGame", "CrapsGame\CrapsGame.csproj", "{D7465F06-D724-4B25-9642-1819D2AF8475}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F884B20C-6D06-4768-8F1C-C3D663A470D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F884B20C-6D06-4768-8F1C-C3D663A470D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F884B20C-6D06-4768-8F1C-C3D663A470D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F884B20C-6D06-4768-8F1C-C3D663A470D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7465F06-D724-4B25-9642-1819D2AF8475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7465F06-D724-4B25-9642-1819D2AF8475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7465F06-D724-4B25-9642-1819D2AF8475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7465F06-D724-4B25-9642-1819D2AF8475}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
